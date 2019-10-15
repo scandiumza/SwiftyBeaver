@@ -7,7 +7,7 @@ let package = Package(
     name: "SwiftyBeaver",
     platforms: [
         .macOS(.v10_12),
-        .iOS(.v11),
+        .iOS(.v10),
         .tvOS(.v11),
         .watchOS(.v2)
     ],
